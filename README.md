@@ -25,6 +25,10 @@ Seleziona **“Beni e servizi”** durante il pagamento.
 
 ---
 
+<p align="center">
+  <img src="preview.png" width="400">
+</p>
+
 
 ## 📖 Description / Descrizione
 
@@ -77,29 +81,25 @@ Installazione
 ### Manual installation
 ### Installazione manuale
 
-1. Copy the files into:
-1. Copia i file in questa cartella:
-
+1. Copy the files into: - Copia i file in questa cartella:
+```
 /config/www/community/boiler-card/
+```
 
+2. Add the resource in Home Assistant: - Aggiungi la risorsa in Home Assistant
 
-2. Add the resource in Home Assistant:
-2. Aggiungi la risorsa in Home Assistant
-
-```yaml
+```
 type: module
 url: /local/community/boiler-card/boiler-card.js
+```
+
+3. Restart Home Assistant - Riavvia Home Assistant
 
 
-3. Restart Home Assistant
-3. Riavvia Home Assistant
-
-
-4. Add the card manually to Lovelace
-4. Aggiungi la card manualmente a Lovelance
+4. Add the card manually to Lovelace - Aggiungi la card manualmente a Lovelance
 
 🛠 Configuration example
-
+```
 type: custom:boiler-card
 background: /local/community/boiler-card/boiler.png
 mode: water_heater.lydos100wifi
@@ -115,7 +115,7 @@ power: switch.ariston_power
 anticool_switch: switch.ariston_anti_cooling
 boost: switch.ariston_permanent_boost
 night: switch.ariston_night_mode
-
+```
 NOTE: Change the name of the example sensor to your sensor
 NOTE: Cambia il nome del sensore nell'esempio con il tuo sensore di riferimento
 
