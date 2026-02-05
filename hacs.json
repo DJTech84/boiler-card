@@ -1,0 +1,9 @@
+{
+  "name": "Ariston Lydos Boiler Card",
+  "content_in_root": true,
+  "domains": ["lovelace"],
+  "country": ["IT"],
+  "render_readme": true,
+  "zip_release": false,
+  "filename": "boiler-card.js"
+}

@@ -1,0 +1,176 @@
+ha-card {
+  padding: 0 !important;
+  overflow: hidden !important;
+  background: none !important;
+}
+
+/* CARD */
+.wrapper {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+}
+
+/* BACKGROUND */
+.wrapper img.bg {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+/* BASE */
+.field {
+  position: absolute;
+  font-weight: bold;
+  color: white;
+  transform: translate(-50%, -50%);
+  white-space: nowrap;
+}
+
+/* SINISTRA */
+/*.working  { left: 18%; top: 8%; font-size: 12px; }*/
+
+.working {
+  left: 18%;
+  top: 10%;
+  font-size: 12px;
+  text-align: center;
+  width: 26%;        /* stessa larghezza del riquadro sinistro */
+}
+
+.mode     { left: 18%; top: 17%; font-size: 22px; }
+.temp     { left: 18%; top: 29%; font-size: 26px; }
+.boost    { left: 16%; top: 43%; font-size: 22px; }
+.showers  { left: 16%; top: 63%; font-size: 24px; }
+
+/* ================================================= */
+/* RIGHE DESTRE PERFETTE */
+/* ================================================= */
+
+.row {
+  position: absolute;
+
+  /* OCCUPA TUTTA LA LARGHEZZA DEL BOX */
+  width: 52%;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+
+  /* NON ESCONO MAI */
+  overflow: hidden;
+}
+
+/* LABEL SEMPRE A SINISTRA */
+.row .label {
+  flex: 1;
+  text-align: left;
+  padding-left: 1%;
+}
+/* VALORE SEMPRE A DESTRA */
+.row .value {
+  flex: 0;
+  text-align: right;
+  padding-right: 1%;
+  min-width: 60px;
+}
+
+
+/* DISPLAY PICCOLO SUL BOILER IN BASSO */
+.boilerdisplay {
+  left: 18%;
+  top: 88.52%;
+  font-size: 14px;
+
+  color: #ff9900;
+  text-shadow: 
+    0 0 4px #ff9900,
+    0 0 8px #ff6600,
+    0 0 12px #ff3300;
+}
+
+
+/* ================================================= */
+/* PULSANTI MODALITÀ SOTTO DOCCIA */
+/* ================================================= */
+
+.modeButtons {
+  position: absolute;
+
+  /* sotto ANTICOOLING TEMP */
+  left: 42%;
+  top: 22%;
+
+  /* stessa larghezza del box rosso */
+  width: 52%;
+
+  /* tutti in fila */
+  display: flex;
+  justify-content: space-between;
+
+  gap: 3px;
+  z-index: 50;
+}
+
+
+/* stile base pulsante */
+.modeBtn {
+  flex: 1;              /* si dividono lo spazio */
+  text-align: center;
+  font-size: 9px;
+  padding: 3px 2px;
+}
+
+
+/* effetto neon hover */
+.modeBtn:hover {
+  transform: scale(1.05);
+}
+
+/* colori neon per ogni modalità */
+.modeBtn.green {
+  border-color: lime;
+  box-shadow: 0 0 6px lime;
+}
+
+.modeBtn.imemory {
+  border-color: deepskyblue;
+  box-shadow: 0 0 6px deepskyblue;
+}
+
+.modeBtn.program {
+  border-color: orange;
+  box-shadow: 0 0 6px orange;
+}
+
+.modeBtn.boost {
+  border-color: red;
+  box-shadow: 0 0 6px red;
+}
+/* =====FINE PULSANTI=========================== */
+
+/* ================================================= */
+/* POSIZIONI  */
+/* BOX 1 */
+.powerrow   { left: 42%; top: 6%; font-size: 12px; }
+.nightrow   { left: 42%; top: 11%; font-size: 12px;  }
+.anticoolstatusrow { left: 42%; top: 16%; font-size: 12px; }
+
+/* BOX 2 */
+.currentrow { left: 42%; top: 34.5%; font-size: 12px; }
+.settemprow  { left: 42%; top: 40.5%; font-size: 12px; }
+.maxtemprow  { left: 42%; top: 47%; font-size: 12px; }
+.anticoolrow { left: 42%; top: 53%; font-size: 12px; }
+
+
+/* BOX 3 */
+.errorrow    { left: 42%; top: 71%; font-size: 12px; }
+.resistorrow { left: 42%; top: 78%; font-size: 12px; }
+.pumprow     { left: 42%; top: 85.5%; font-size: 12px; }
+
+
