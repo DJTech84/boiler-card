@@ -1,13 +1,9 @@
 # Ariston Lydos Boiler Card
 
 
-## ❤️ Support the project
-## ❤️ Supporta il progetto
+## ❤️ Support the project - Supporta il progetto
 
 This project is **open-source and free**.
-Questo progetto è **open-source e gratuito**.
-
-
 If you find **Ariston Lydos Boiler Card** useful and want to support its development,
 you can make a **voluntary donation**.
 
@@ -15,6 +11,7 @@ Donations are optional and help support development and maintenance.
 Please select **“Goods and Services”** when donating.
 
 
+Questo progetto è **open-source e gratuito**.
 Se **Ariston Lydos Boiler Card** ti è utile e vuoi supportarne lo sviluppo,
 puoi fare una **donazione volontaria**.
 
@@ -95,7 +92,6 @@ url: /local/community/boiler-card/boiler-card.js
 
 3. Restart Home Assistant - Riavvia Home Assistant
 
-
 4. Add the card manually to Lovelace - Aggiungi la card manualmente a Lovelance
 
 🛠 Configuration example
@@ -116,10 +112,10 @@ anticool_switch: switch.ariston_anti_cooling
 boost: switch.ariston_permanent_boost
 night: switch.ariston_night_mode
 ```
-NOTE: Change the name of the example sensor to your sensor
-NOTE: Cambia il nome del sensore nell'esempio con il tuo sensore di riferimento
+NOTE: Change the name of the example sensor to your sensor.
+NOTE: Cambia il nome del sensore nell'esempio con il tuo sensore di riferimento.
 
-
+---
 
 ⚠️ Disclaimer
 
