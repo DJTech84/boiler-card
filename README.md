@@ -135,7 +135,7 @@ Please select **“Goods and Services”** when donating.
 Se questo progetto ti è stato utile e vuoi supportarne lo sviluppo:
 Seleziona **“Beni e servizi”** durante il pagamento.
 
-👉 https://paypal.me/USER
+👉 https://paypal.me/alegen84
 
 Your support is appreciated but never required ❤️
 Il tuo supporto è apprezzato ma mai obbligatorio ❤️
