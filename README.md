@@ -1,4 +1,12 @@
 # Ariston Lydos Boiler Card
+<p align="center">
+  <img src="https://img.shields.io/badge/HACS-Custom-orange.svg">
+  <img src="https://img.shields.io/github/v/release/djtech84/boiler-card">
+  <img src="https://img.shields.io/github/license/djtech84/boiler-card">
+  <a href="https://paypal.me/alegen84">
+    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg">
+  </a>
+</p>
 
 ## ❤️ Support the project - Supporta il progetto
 
@@ -159,3 +167,11 @@ Il tuo supporto è apprezzato ma mai obbligatorio ❤️
 📜 
 Licenza
 MIT License
+<p align="center">
+  <img src="https://img.shields.io/badge/HACS-Custom-orange.svg">
+  <img src="https://img.shields.io/github/v/release/djtech84/boiler-card">
+  <img src="https://img.shields.io/github/license/djtech84/boiler-card">
+  <a href="https://paypal.me/alegen84">
+    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg">
+  </a>
+</p>
