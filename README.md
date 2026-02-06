@@ -38,7 +38,7 @@ It provides a clean, visual interface to monitor and control:
 - Night mode
 - Anticooling
 - Power, pump and resistor status
-- Power, punp and resistor Energy
+- Power, pump and resistor Energy
 - No pop-up, click on the status to change it!
 
 ---
@@ -70,9 +70,8 @@ Offre un’interfaccia chiara e intuitiva per monitorare e controllare:
 
 ---
 
-⚙️ 
-Installation
-Installazione
+## ⚙️ Installation / Installazione
+
 
 ### Manual installation
 ### Installazione manuale
@@ -93,7 +92,9 @@ url: /local/community/boiler-card/boiler-card.js
 
 4. Add the card manually to Lovelace - Aggiungi la card manualmente a Lovelance
 
-🛠 Configuration example
+## 🛠 Configuration example
+
+
 ```
 type: custom:boiler-card
 background: /local/community/boiler-card/boiler.png
@@ -126,7 +127,8 @@ https://github.com/djtech84/boiler-card
 Category - Categoria: **Lovelace**
 
 4. Search  **Ariston Lydos Boiler Card** - Cerca **Ariston Lydos Boiler Card**
-5. Install and restard HA. - Installa e riavvia Home Assistant
+5. Install and restart Home Assistant  - Installa e riavvia Home Assistant 
+6. Add the card resource automatically if prompted - Aggiungi automaticamente la risorsa della carta se richiesto
 
 
 ---
