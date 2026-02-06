@@ -1,6 +1,5 @@
 # Ariston Lydos Boiler Card
 
-
 ## ❤️ Support the project - Supporta il progetto
 
 This project is **open-source and free**.
@@ -124,7 +123,6 @@ Use at your own risk.
 
 Questo progetto non è affiliato ad Ariston.
 Usalo a tuo rischio.
-
 
 
 ❤️ Support the project
