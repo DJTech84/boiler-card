@@ -6,7 +6,8 @@ This project is **open-source and free**.
 If you find **Ariston Lydos Boiler Card** useful and want to support its development,
 you can make a **voluntary donation**.
 
-Donations are optional and help support development and maintenance.  
+Donations are optional and help support development and maintenance of this open-source project.
+
 Please select **“Goods and Services”** when donating.
 
 
@@ -14,7 +15,7 @@ Questo progetto è **open-source e gratuito**.
 Se **Ariston Lydos Boiler Card** ti è utile e vuoi supportarne lo sviluppo,
 puoi fare una **donazione volontaria**.
 
-Le donazioni sono facoltative e aiutano a sostenere lo sviluppo e la manutenzione.  
+Le donazioni sono facoltative e aiutano a sostenere lo sviluppo e la manutenzione di questo progetto open-source.
 Seleziona **“Beni e servizi”** durante il pagamento.
 
 👉 https://paypal.me/alegen84
