@@ -124,6 +124,7 @@ NOTE: Cambia il nome del sensore nell'esempio con il tuo sensore di riferimento.
 https://github.com/djtech84/boiler-card
 ```
 Category - Categoria: **Lovelace**
+
 4. Search  **Ariston Lydos Boiler Card** - Cerca **Ariston Lydos Boiler Card**
 5. Install and restard HA. - Installa e riavvia Home Assistant
 
