@@ -115,6 +115,20 @@ NOTE: Change the name of the example sensor to your sensor.
 NOTE: Cambia il nome del sensore nell'esempio con il tuo sensore di riferimento.
 
 ---
+## 📦 Install whit HACS - Installazione tramite HACS (consigliata)
+
+1. Open - Apri **HACS**
+2. Click on the three dots (top right) - Clicca sui tre puntini (in alto a destra) → **Custom repositories**
+3. Add - Aggiungi:
+```
+https://github.com/djtech84/boiler-card
+```
+Category - Categoria: **Lovelace**
+4. Search  **Ariston Lydos Boiler Card** - Cerca **Ariston Lydos Boiler Card**
+5. Install and restard HA. - Installa e riavvia Home Assistant
+
+
+---
 
 ⚠️ Disclaimer
 
