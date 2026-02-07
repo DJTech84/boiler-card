@@ -29,11 +29,7 @@ Seleziona **“Beni e servizi”** durante il pagamento.
 👉 https://paypal.me/alegen84
 
 ---
-
-<p align="center">
-  <img src="https://github.com/DJTech84/boiler-card/blob/main/preview.png" width="400">
-</p>
-
+![QuickStart](https://github.com/DJTech84/boiler-card/blob/main/preview.png)
 
 ## 📖 Description / Descrizione
 
