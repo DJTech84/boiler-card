@@ -29,7 +29,6 @@ ha-card {
 }
 
 /* SINISTRA */
-/*.working  { left: 18%; top: 8%; font-size: 12px; }*/
 
 .working {
   left: 18%;
@@ -45,7 +44,7 @@ ha-card {
 .showers  { left: 16%; top: 63%; font-size: 24px; }
 
 /* ================================================= */
-/* RIGHE DESTRE PERFETTE */
+/* RIGHE DESTRE */
 /* ================================================= */
 
 .row {
@@ -62,7 +61,6 @@ ha-card {
   font-weight: bold;
   color: white;
 
-  /* NON ESCONO MAI */
   overflow: hidden;
 }
 
@@ -102,7 +100,7 @@ ha-card {
 .modeButtons {
   position: absolute;
 
-  /* sotto ANTICOOLING TEMP */
+  /*  ANTICOOLING TEMP */
   left: 42%;
   top: 22%;
 
@@ -166,7 +164,6 @@ ha-card {
 .settemprow  { left: 42%; top: 40.5%; font-size: 12px; }
 .maxtemprow  { left: 42%; top: 47%; font-size: 12px; }
 .anticoolrow { left: 42%; top: 53%; font-size: 12px; }
-
 
 /* BOX 3 */
 .errorrow    { left: 42%; top: 71%; font-size: 12px; }
