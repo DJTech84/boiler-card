@@ -31,7 +31,7 @@ Seleziona **“Beni e servizi”** durante il pagamento.
 ---
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/djtech84/boiler-card/main/preview.png](https://github.com/DJTech84/boiler-card/blob/main/preview.png)" width="400">
+  <img src="https://github.com/DJTech84/boiler-card/blob/main/preview.png" width="400">
 </p>
 
 
