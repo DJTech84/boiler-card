@@ -29,7 +29,13 @@ Seleziona **“Beni e servizi”** durante il pagamento.
 👉 https://paypal.me/alegen84
 
 ---
-![QuickStart](https://github.com/DJTech84/boiler-card/blob/main/preview.png)
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/DJTech84/boiler-card/main/preview.png" width="400">
+</p>
+
+[![HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://github.com/djtech84/boiler-card)
+
 
 ## 📖 Description / Descrizione
 
@@ -135,7 +141,7 @@ Category - Categoria: **Lovelace**
 5. Install and restart Home Assistant  - Installa e riavvia Home Assistant 
 6. Add the card resource automatically if prompted - Aggiungi automaticamente la risorsa della carta se richiesto
 
-
+[![HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](https://github.com/djtech84/boiler-card)
 ---
 
 ⚠️ Disclaimer
