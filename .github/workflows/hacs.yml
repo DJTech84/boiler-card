@@ -1,14 +1,14 @@
-name: HACS
+name: HACS Validation
 
 on:
-  push:
-    tags:
-      - '*'
-  workflow_dispatch:
+  pull_request:
 
 jobs:
-  hacs:
+  validate-hacs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: hacs/integration@2.0.5
+      - name: HACS validation
+        uses: hacs/action@main
+        with:
+          category: plugin
