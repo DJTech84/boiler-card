@@ -1,7 +1,6 @@
 {
-  "name": "Ariston Lydos Boiler Card",
-  "content_in_root": true,
-  "render_readme": true,
-  "zip_release": false,
-  "filename": "boiler-card.js"
+  "name": "Ariston Boiler Card",
+  "type": "plugin",
+  "filename": "boiler-card.js",
+  "render_readme": true
 }
