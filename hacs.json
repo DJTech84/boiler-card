@@ -1,6 +1,6 @@
 {
   "name": "Ariston Boiler Card",
-  "type": "plugin",
   "filename": "boiler-card.js",
+  "content_in_root": true,
   "render_readme": true
 }
